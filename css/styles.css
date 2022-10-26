@@ -193,7 +193,7 @@ body {
 .hero-button:focus {
   background-color: var(--bcg-btn-hover);
   color: var(--text-white);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15)
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 /* Section */
 .section {
@@ -404,7 +404,7 @@ body {
 .gallery-card {
   background-color: var(--bcg-main);
 }
-.gallery-card-link{
+.gallery-card-link {
   display: inline-block;
 }
 .gallery-card-link:hover,
@@ -485,7 +485,7 @@ body {
   color: var(--text-white);
   margin-bottom: 20px;
 }
-.footer-container{
+.footer-container {
   display: flex;
   align-items: baseline;
   gap: 70px;
